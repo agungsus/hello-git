@@ -1,3 +1,4 @@
 A: hello
 B: hey, what's up
 A: i'm good man
+B: just checkin' stay handsome man
